@@ -1,0 +1,5 @@
+C:\Users\artik\OneDrive\Документы\Projects\ке\ке\bin\Debug\ке.exe
+C:\Users\artik\OneDrive\Документы\Projects\ке\ке\bin\Debug\ке.pdb
+C:\Users\artik\OneDrive\Документы\Projects\ке\ке\obj\x86\Debug\ке.exe
+C:\Users\artik\OneDrive\Документы\Projects\ке\ке\obj\x86\Debug\ке.pdb
+C:\Users\artik\OneDrive\Документы\Projects\ке\ке\obj\x86\Debug\ке.csprojResolveAssemblyReference.cache

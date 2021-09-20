@@ -1,0 +1,21 @@
+﻿<Properties StartupConfiguration="{F16779B3-DA90-48E1-9B33-E1001005D72A}|Default">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches>
+    <Watch file="ке\EmptyClass.cs" line="115" offsetX="1258" offsetY="2237" expression="mass67[0]" liveUpdate="False" />
+    <Watch file="ке\EmptyClass.cs" line="114" offsetX="1252" offsetY="1843" expression="massi" liveUpdate="False" />
+    <Watch file="ке\EmptyClass.cs" line="114" offsetX="1062" offsetY="1870" expression="mass3" liveUpdate="False" />
+    <Watch file="ке\EmptyClass.cs" line="45" offsetX="1119" offsetY="784" expression="mass3" liveUpdate="False" />
+    <Watch file="ке\EmptyClass.cs" line="45" offsetX="1171" offsetY="888" expression="massi" liveUpdate="False" />
+  </MonoDevelop.Ide.DebuggingService.PinnedWatches>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="ке\EmptyClass.cs">
+    <Files>
+      <File FileName="ке\Program.cs" Line="14" Column="13" />
+      <File FileName="ке\EmptyClass.cs" Line="261" Column="2" />
+      <File FileName="ке\Ps.cs" Line="7" Column="3" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.ке PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
